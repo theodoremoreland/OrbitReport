@@ -5,11 +5,11 @@ A basic Angular webpage featuring a searchable, sortable table of static satelli
 *This program was a homework assignment at LaunchCode's Lc101 (2019)*
 
 # Sorting (Animated)
-<img src="presentation/gif1.gif" width="900">
+<img src="presentation/gif1.gif" width="400">
 
 # Searching (Animated)
 
-<img src="presentation/gif2.gif" width="900">
+<img src="presentation/gif2.gif" width="400">
 
 
 # Default View
