@@ -1,0 +1,67 @@
+{
+    "satellites": [
+        {
+            "name": "Sirius 1",
+            "type": "Communication",
+            "launchDate": "2007-11-17",
+            "orbitType": "LOW",
+            "operational": true
+        },
+        {
+            "name": "Vanguard 1",
+            "type": "Probe",
+            "launchDate": "1958-03-17",
+            "orbitType": "HIGH",
+            "operational": false
+        },
+        {
+            "name": "SNAP 10-A",
+            "type": "Space Station",
+            "launchDate": "1965-11-01",
+            "orbitType": "HIGH",
+            "operational": false
+        },
+        {
+            "name": "Hubble Space Telescope",
+            "type": "Telescope",
+            "launchDate": "1990-05-24",
+            "orbitType": "LOW",
+            "operational": true
+        },
+        {
+            "name": "Envisat",
+            "type": "Probe",
+            "launchDate": "2002-03-01",
+            "orbitType": "LOW",
+            "operational": false
+        },
+        {
+            "name": "Thermal Blanket",
+            "type": "Space Debris",
+            "launchDate": "N/A",
+            "orbitType": "LOW",
+            "operational": false
+        },
+        {
+            "name": "Morelos III",
+            "type": "Communication",
+            "launchDate": "2012-12-19",
+            "orbitType": "LOW",
+            "operational": true
+        },
+        {
+            "name": "IIR-M",
+            "type": "Positioning",
+            "launchDate": "2007-08-17",
+            "orbitType": "LOW",
+            "operational": true
+        },
+        {
+            "name": "ISS",
+            "type": "Space Station",
+            "launchDate": "1998-11-20",
+            "orbitType": "LOW",
+            "operational": true
+        }
+    ]
+}
